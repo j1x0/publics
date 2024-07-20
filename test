@@ -1,0 +1,3 @@
+local part = Instance.new("Part")
+part.Parent = game.Workspace
+part.Size = Vector3.new(5,5,5)
